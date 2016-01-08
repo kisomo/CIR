@@ -1,0 +1,89 @@
+[1] "Cox-Ingersoll-Ross Project"
+Discrete Drift Term (Da)[1] 0.9995604
+Discrete Volatility (Dsigma)[1] 0.04256276
+Continuous Drift (a)[1] 0.0004397142
+Continuous Volatility (sigma)[1] 0.04257212
+Long-Run Average (b)[1] 2.812897
+RSS[1] 5.413027
+Number of Entries (N)[1] 2989
+Length of Projection (ncap)(Days)[1] 365
+Expected Value of Forecasted Interest Rate E[x(T)|x(t)][1] 4.224287
+Variance of Forecasted Interest Rate Var[x(T)|x(t)][1] 2.454279
+[1] "Estimate of Interest Rate"
+[1] 3.367591
+[1] 6.260855
+[1] 4.199553
+Estimate of Interest Rate (mean)[1] 4.609333
+'data.frame':	369 obs. of  3 variables:
+ $ Date   : Factor w/ 369 levels "1/1/1954","1/1/1955",..: 1 122 153 184 215 246 277 308 339 32 ...
+ $ Counter: int  1 2 3 4 5 6 7 8 9 10 ...
+ $ Data   : num  1.02 1 1.03 0.81 0.72 0.64 0.79 1.05 0.99 1 ...
+       Date        Counter         Data       
+ 1/1/1954:  1   Min.   :  1   Min.   : 0.580  
+ 1/1/1955:  1   1st Qu.: 93   1st Qu.: 3.040  
+ 1/1/1956:  1   Median :185   Median : 4.720  
+ 1/1/1957:  1   Mean   :185   Mean   : 5.468  
+ 1/1/1958:  1   3rd Qu.:277   3rd Qu.: 7.300  
+ 1/1/1959:  1   Max.   :369   Max.   :15.520  
+ (Other) :363                                 
+The following object is masked from InterestRates (position 3):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 4):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 5):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 6):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 9):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 10):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 11):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 12):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 13):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 14):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 15):
+
+    Counter, Data
+The following object is masked from InterestRates (position 16):
+
+    Counter, Data, Date
+The following object is masked from InterestRates (position 18):
+
+    Counter, Data
+[1] "Date"    "Counter" "Data"   
+$minimum
+[1] 18.91769
+
+$estimate
+[1] 0.9903684
+
+$gradient
+[1] 0
+
+$hessian
+         [,1]
+[1,] 1991.701
+
+$code
+[1] 1
+
+$iterations
+[1] 2
+
+null device 
+          1 
