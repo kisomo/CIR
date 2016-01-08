@@ -22,3 +22,11 @@ Your ouput will be saved as a ".png" and ".txt" file in your working directory.
 
 
 ### Results
+
+Results from CIR_Calibration_Projection.R.
+
+![](https://raw.githubusercontent.com/MGallow/CIR/master/CIR_Calibration_Projections.png)
+
+Results from CIR_Pricing_Projections(monthly).R.
+
+![](https://raw.githubusercontent.com/MGallow/CIR/master/CIR_Pricing_Projections(monthly).png)
