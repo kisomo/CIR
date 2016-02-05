@@ -1,6 +1,6 @@
 #Calibrating and Projecting the Cox-Ingersoll-Ross Process
 #ACSC 351 Final Project
-#Matt Galloway and Caleb Moore
+#Matt Galloway
 
 #note: a "#" designates a line of code as a comment
 #Before running this script, you must specify your 'working directory'. This is the location where any output will be stored.
